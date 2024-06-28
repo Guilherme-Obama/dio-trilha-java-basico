@@ -6,7 +6,8 @@ public class ContaTerminal {
         Scanner scanner = new Scanner(System.in);
         int numero = 0;
         String agencia = " ";
-        String nomeCliente = " ";
+        String nome = " ";
+        String sobrenome = " ";
         double saldo = 0.0;
 
         // Exibir as mensagens para o nosso usuário
@@ -15,10 +16,13 @@ public class ContaTerminal {
         System.out.println("Por favor, digite o número da Agência!");
         agencia = scanner.next();
         System.out.println("Por favor, digite o nome do Cliente!");
-        nomeCliente = scanner.next();
+        nome = scanner.next();
+        System.out.println("Por favor, digite o sobrenome do Cliente!");
+        sobrenome = scanner.next();
         System.out.println("Por favor, digite o saldo!");
         saldo = scanner.nextDouble();
 
+        String nomeCliente = nome + " " + sobrenome;
         scanner.close();
 
         // Exibir a mensagem conta criada
