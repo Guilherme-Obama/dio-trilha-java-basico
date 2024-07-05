@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/DesafioControleFluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO - Desafio /POO - Desafio .iml" filepath="$PROJECT_DIR$/POO - Desafio /POO - Desafio .iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/dio-trilha-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema_smart_tv/sistema_smart_tv.iml" filepath="$PROJECT_DIR$/sistema_smart_tv/sistema_smart_tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipos_variaveis/tipos_variaveis.iml" filepath="$PROJECT_DIR$/tipos_variaveis/tipos_variaveis.iml" />
+    </modules>
+  </component>
+</project>
